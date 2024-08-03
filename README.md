@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nigam</h1>
+<h1 align="center">![Hii-I-am-Nigam-8-3-2024](https://github.com/user-attachments/assets/4d110f72-46ad-4101-a8d7-15ab07d8e75a)</h1>
+
+
 <h3 align="center">I am a full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigmu&label=Profile%20views&color=0e75b6&style=flat" alt="nigmu" /> </p>
 
 
-![Procrastination](https://github.com/user-attachments/assets/00cf52ff-df81-40e9-9a2b-cf9260f0579c)
+<h1 align="center">![Procrastination](https://github.com/user-attachments/assets/00cf52ff-df81-40e9-9a2b-cf9260f0579c)</h1>
 
 
 - 🌱 I’m currently learning **Django**
