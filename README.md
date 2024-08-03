@@ -1,5 +1,7 @@
 <h1 align="center"> gifs\Hii-I-am-Nigam-8-3-2024.gif </h1>
-
+<h1 align="center">
+  <img src="https://github.com/nigmu/nigmu/blob/master/gifs/Hii-I-am-Nigam-8-3-2024.gif?raw=true" alt="Hi, I am Nigam" />
+</h1>
 
 <h3 align="center">I am a full stack developer</h3>
 
