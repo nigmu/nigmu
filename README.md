@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigmu&label=Profile%20views&color=0e75b6&style=flat" alt="nigmu" /> </p>
 
 
-![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/nigmu/nigmu/assets/102957844/41870700-2421-4b46-944c-eac9354969dd)
+![Procrastination](https://github.com/user-attachments/assets/00cf52ff-df81-40e9-9a2b-cf9260f0579c)
 
 
 - 🌱 I’m currently learning **Django**
