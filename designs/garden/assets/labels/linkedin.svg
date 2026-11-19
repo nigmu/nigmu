@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="110" viewBox="0 0 360 110" role="img" aria-labelledby="title desc">
+  <title id="title">LinkedIn label</title>
+  <desc id="desc">Plant label: LinkedIn, nigamananda-behera.</desc>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="360" height="110" fill="#fbf6ea" stroke="#1c2b22" stroke-width="3"/>
+  <rect width="360" height="12" fill="#b4235b"/>
+  <rect x="24" y="28" width="8" height="70" fill="#b4235b"/>
+  <text x="48" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" fill="#1c2b22">LinkedIn</text>
+  <text x="48" y="86" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#b4235b">nigamananda-behera</text>
+</svg>

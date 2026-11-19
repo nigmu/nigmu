@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420" role="img" aria-labelledby="title desc">
+  <title id="title">resume-ledger plate</title>
+  <desc id="desc">Specimen plate 2 for resume-ledger: a resume for each job.</desc>
+  <style>
+    .sway { animation: sway 8s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+    @keyframes sway { 50% { transform: rotate(1.8deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="560" height="420" fill="#fbf6ea" stroke="#1c2b22" stroke-width="4"/>
+  <rect x="16" y="16" width="528" height="388" fill="none" stroke="#1d4e89" stroke-width="3"/>
+  <rect x="16" y="16" width="528" height="14" fill="#1d4e89"/>
+  <g class="sway" transform="translate(280 200)"><path d="M0 90 V-70" stroke="#2f7d4a" stroke-width="5"/><rect x="-70" y="-60" width="78" height="22" rx="4" fill="#fffaf0" stroke="#1c2b22" stroke-width="2" transform="rotate(18)"/><rect x="-8" y="-32" width="78" height="22" rx="4" fill="#fffaf0" stroke="#1c2b22" stroke-width="2" transform="rotate(-18)"/><rect x="-70" y="-4" width="78" height="22" rx="4" fill="#fffaf0" stroke="#1c2b22" stroke-width="2" transform="rotate(18)"/><rect x="-8" y="24" width="78" height="22" rx="4" fill="#fffaf0" stroke="#1c2b22" stroke-width="2" transform="rotate(-18)"/><rect x="-70" y="52" width="78" height="22" rx="4" fill="#fffaf0" stroke="#1c2b22" stroke-width="2" transform="rotate(18)"/></g>
+  <text x="280" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" fill="#1c2b22">resume-ledger</text>
+  <text x="280" y="362" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#1d4e89">a resume for each job</text>
+  <text x="280" y="392" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="2" fill="#5e6b58">PLATE 02</text>
+</svg>

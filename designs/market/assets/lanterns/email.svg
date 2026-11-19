@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="120" viewBox="0 0 360 120" role="img" aria-labelledby="title desc">
+  <title id="title">EMAIL lantern</title>
+  <desc id="desc">Paper lantern: EMAIL, nigmucode@gmail.com.</desc>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="360" height="120" fill="#241433"/>
+  <line x1="180" y1="0" x2="180" y2="18" stroke="#1a120c" stroke-width="3"/>
+  <rect x="28" y="18" width="304" height="78" rx="10" fill="#ff5a36" stroke="#1a120c" stroke-width="3"/>
+  <path d="M28 96 H332 L300 116 H60 Z" fill="#ff5a36" stroke="#1a120c" stroke-width="3"/>
+  <text x="180" y="52" text-anchor="middle" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#1a120c">EMAIL</text>
+  <text x="180" y="78" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#1a120c">nigmucode@gmail.com</text>
+</svg>

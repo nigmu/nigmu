@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="110" viewBox="0 0 360 110" role="img" aria-labelledby="title desc">
+  <title id="title">X label</title>
+  <desc id="desc">Plant label: X, @nigmu7161.</desc>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="360" height="110" fill="#fbf6ea" stroke="#1c2b22" stroke-width="3"/>
+  <rect width="360" height="12" fill="#1d4e89"/>
+  <rect x="24" y="28" width="8" height="70" fill="#1d4e89"/>
+  <text x="48" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" fill="#1c2b22">X</text>
+  <text x="48" y="86" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#1d4e89">@nigmu7161</text>
+</svg>

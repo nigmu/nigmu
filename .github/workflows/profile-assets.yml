@@ -21,6 +21,8 @@ jobs:
           python-version: "3.12"
       - name: Check committed poster, icons, and chips
         run: python scripts/build_profile_assets.py --check
+      - name: Check committed design drafts
+        run: python scripts/build_designs.py --check
       - name: Rebuild the public language census from the GitHub API
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

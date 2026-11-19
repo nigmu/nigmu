@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="400" viewBox="0 0 560 400" role="img" aria-labelledby="title desc">
+  <title id="title">warehouse_management comic panel</title>
+  <desc id="desc">Comic panel for warehouse_management: Django + react run the warehouse!</desc>
+  <defs>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="6.0" cy="6.0" r="2.6" fill="#ff8c1a"/><circle cx="0" cy="0" r="2.6" fill="#ff8c1a"/><circle cx="12" cy="0" r="2.6" fill="#ff8c1a"/><circle cx="0" cy="12" r="2.6" fill="#ff8c1a"/><circle cx="12" cy="12" r="2.6" fill="#ff8c1a"/></pattern>
+    <radialGradient id="fadeg" cx="100%" cy="100%" r="95%"><stop offset="0.05" stop-color="white"/><stop offset="1" stop-color="black"/></radialGradient><mask id="fade"><rect width="100%" height="100%" fill="url(#fadeg)"/></mask>
+  </defs>
+  <style>
+    .throb { animation: throb 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes throb { 50% { transform: scale(1.05); } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="560" height="400" fill="#fff8e7"/>
+  <rect x="10" y="10" width="540" height="380" fill="#fff3b0"/>
+  <rect x="10" y="10" width="540" height="380" fill="url(#dots)" mask="url(#fade)" opacity="0.55"/>
+  <g class="throb">
+    <polygon points="386.0,32.0 404.7,71.5 430.9,59.7 439.3,83.5 481.8,70.1 465.8,105.6 488.8,114.5 480.2,134.4 515.5,150.0 480.2,165.6 483.2,183.5 465.8,194.4 473.3,222.7 439.3,216.5 440.2,259.0 404.7,228.5 386.0,247.8 367.3,228.5 334.1,254.3 332.7,216.5 307.3,215.6 306.2,194.4 266.4,191.3 291.8,165.6 280.8,150.0 291.8,134.4 272.0,110.6 306.2,105.6 285.9,66.6 332.7,83.5 341.1,59.7 367.3,71.5" fill="#111111" transform="translate(6 6)"/>
+    <polygon points="386.0,32.0 404.7,71.5 430.9,59.7 439.3,83.5 481.8,70.1 465.8,105.6 488.8,114.5 480.2,134.4 515.5,150.0 480.2,165.6 483.2,183.5 465.8,194.4 473.3,222.7 439.3,216.5 440.2,259.0 404.7,228.5 386.0,247.8 367.3,228.5 334.1,254.3 332.7,216.5 307.3,215.6 306.2,194.4 266.4,191.3 291.8,165.6 280.8,150.0 291.8,134.4 272.0,110.6 306.2,105.6 285.9,66.6 332.7,83.5 341.1,59.7 367.3,71.5" fill="#2ec4f1" stroke="#111111" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(266.0 116.9) rotate(6 120.0 33.1)"><g transform="translate(6 6) scale(0.9105)" fill="#111111" stroke="#111111" stroke-width="5.5" stroke-linejoin="round"><path d="M31.3 71.4H13.2V15.0H0.0V0.0H44.5V15.0H31.3Z"/><path d="M105.9 71.4H87.8V41.8H72.5V71.4H54.4V0.0H72.5V26.8H87.8V0.0H105.9Z"/><path d="M169.9 45.9Q169.9 58.7 163.4 65.6Q156.9 72.4 144.4 72.4Q132.3 72.4 125.9 65.8Q119.4 59.2 119.4 46.3V0.0H137.6V45.3Q137.6 51.7 139.4 54.4Q141.1 57.1 144.6 57.1Q148.4 57.1 150.1 54.4Q151.8 51.7 151.8 45.2V0.0H169.9Z"/><path d="M234.3 34.2Q234.3 52.2 225.9 61.8Q217.5 71.4 202.9 71.4H183.3V0.0H204.1Q218.7 0.0 226.5 8.8Q234.3 17.6 234.3 34.2ZM215.6 34.9Q215.6 24.4 212.7 19.7Q209.8 15.0 203.9 15.0H201.4V56.3H202.9Q209.5 56.3 212.6 51.1Q215.6 45.9 215.6 34.9Z"/><path d="M261.2 46.2H246.2L243.8 0.0H263.6ZM244.0 63.3Q244.0 58.6 246.6 56.3Q249.2 53.9 253.7 53.9Q258.0 53.9 260.5 56.3Q263.0 58.6 263.0 63.3Q263.0 67.9 260.5 70.2Q257.9 72.6 253.7 72.6Q249.4 72.6 246.7 70.2Q244.0 67.9 244.0 63.3Z"/></g><g transform="scale(0.9105)" fill="#e63946" stroke="#111111" stroke-width="5.5" stroke-linejoin="round" paint-order="stroke"><path d="M31.3 71.4H13.2V15.0H0.0V0.0H44.5V15.0H31.3Z"/><path d="M105.9 71.4H87.8V41.8H72.5V71.4H54.4V0.0H72.5V26.8H87.8V0.0H105.9Z"/><path d="M169.9 45.9Q169.9 58.7 163.4 65.6Q156.9 72.4 144.4 72.4Q132.3 72.4 125.9 65.8Q119.4 59.2 119.4 46.3V0.0H137.6V45.3Q137.6 51.7 139.4 54.4Q141.1 57.1 144.6 57.1Q148.4 57.1 150.1 54.4Q151.8 51.7 151.8 45.2V0.0H169.9Z"/><path d="M234.3 34.2Q234.3 52.2 225.9 61.8Q217.5 71.4 202.9 71.4H183.3V0.0H204.1Q218.7 0.0 226.5 8.8Q234.3 17.6 234.3 34.2ZM215.6 34.9Q215.6 24.4 212.7 19.7Q209.8 15.0 203.9 15.0H201.4V56.3H202.9Q209.5 56.3 212.6 51.1Q215.6 45.9 215.6 34.9Z"/><path d="M261.2 46.2H246.2L243.8 0.0H263.6ZM244.0 63.3Q244.0 58.6 246.6 56.3Q249.2 53.9 253.7 53.9Q258.0 53.9 260.5 56.3Q263.0 58.6 263.0 63.3Q263.0 67.9 260.5 70.2Q257.9 72.6 253.7 72.6Q249.4 72.6 246.7 70.2Q244.0 67.9 244.0 63.3Z"/></g></g>
+  <g transform="translate(42 132)"><rect x="14" y="108" width="84" height="66" fill="#d9a066" stroke="#111111" stroke-width="4"/><rect x="48" y="108" width="16" height="66" fill="#f4d6a8" stroke="#111111" stroke-width="2"/><path d="M24 158 h18" stroke="#111111" stroke-width="3"/><rect x="102" y="108" width="84" height="66" fill="#d9a066" stroke="#111111" stroke-width="4"/><rect x="136" y="108" width="16" height="66" fill="#f4d6a8" stroke="#111111" stroke-width="2"/><path d="M112 158 h18" stroke="#111111" stroke-width="3"/><rect x="58" y="42" width="84" height="66" fill="#d9a066" stroke="#111111" stroke-width="4"/><rect x="92" y="42" width="16" height="66" fill="#f4d6a8" stroke="#111111" stroke-width="2"/><path d="M68 92 h18" stroke="#111111" stroke-width="3"/>
+    <path d="M10 178 H200" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+    <path d="M40 30 l-10 -16 M100 24 v-20 M160 30 l10 -16" stroke="#111111" stroke-width="5" stroke-linecap="round"/></g>
+  <rect x="10" y="10" width="309" height="39" fill="#ffd60a" stroke="#111111" stroke-width="4"/><text x="24" y="36.1" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="900" fill="#111111">WAREHOUSE_MANAGEMENT</text>
+  <rect x="10" y="336" width="540" height="54" fill="#ffffff" stroke="#111111" stroke-width="4"/>
+  <text x="280" y="371" text-anchor="middle" font-family="'Arial Black', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="900" fill="#111111">DJANGO + REACT RUN THE WAREHOUSE!</text>
+  <rect x="10" y="10" width="540" height="380" fill="none" stroke="#111111" stroke-width="6"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="110" viewBox="0 0 360 110" role="img" aria-labelledby="title desc">
+  <title id="title">LinkedIn button</title>
+  <desc id="desc">Painted button: LinkedIn, nigamananda-behera.</desc>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect x="3" y="3" width="354" height="104" rx="18" fill="#c8281e" stroke="#1d120c" stroke-width="3"/>
+  <circle cx="24.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="38.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="52.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="66.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="80.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="94.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="108.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="122.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="136.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="150.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="164.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="178.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="192.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="206.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="220.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="234.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="248.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="262.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="276.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="290.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="304.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="318.0" cy="12.0" r="2.4" fill="#fff8e6"/><circle cx="332.0" cy="12.0" r="2.4" fill="#fff8e6"/>
+  <circle cx="24.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="38.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="52.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="66.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="80.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="94.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="108.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="122.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="136.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="150.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="164.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="178.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="192.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="206.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="220.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="234.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="248.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="262.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="276.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="290.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="304.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="318.0" cy="98.0" r="2.4" fill="#fff8e6"/><circle cx="332.0" cy="98.0" r="2.4" fill="#fff8e6"/>
+  <rect x="14" y="20" width="332" height="70" rx="12" fill="#f6e3bd" stroke="#1d120c" stroke-width="2.5"/>
+  <circle cx="58" cy="55" r="27" fill="#14507a" stroke="#1d120c" stroke-width="2.5"/>
+  <g transform="translate(58 55)"><text x="0" y="9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#fff8e6">in</text></g>
+  <text x="100" y="51" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" fill="#1d120c">LinkedIn</text>
+  <text x="100" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#6b4a2e">nigamananda-behera</text>
+</svg>

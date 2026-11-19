@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420" role="img" aria-labelledby="title desc">
+  <title id="title">bg_download plate</title>
+  <desc id="desc">Specimen plate 5 for bg_download: wallpapers, fetched.</desc>
+  <style>
+    .sway { animation: sway 8s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+    @keyframes sway { 50% { transform: rotate(1.8deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="560" height="420" fill="#fbf6ea" stroke="#1c2b22" stroke-width="4"/>
+  <rect x="16" y="16" width="528" height="388" fill="none" stroke="#2f7d4a" stroke-width="3"/>
+  <rect x="16" y="16" width="528" height="14" fill="#2f7d4a"/>
+  <g class="sway" transform="translate(280 200)"><path d="M0 -70 V70" stroke="#2f7d4a" stroke-width="4"/><rect x="-50" y="-20" width="36" height="28" fill="#dff3ff" stroke="#1c2b22" stroke-width="2"/><path d="M-50 8 l12 -14 8 8 6 -6 10 12z" fill="#7dcc6a"/><rect x="-8" y="-46" width="36" height="28" fill="#dff3ff" stroke="#1c2b22" stroke-width="2"/><path d="M-8 -18 l12 -14 8 8 6 -6 10 12z" fill="#7dcc6a"/><rect x="34" y="-16" width="36" height="28" fill="#dff3ff" stroke="#1c2b22" stroke-width="2"/><path d="M34 12 l12 -14 8 8 6 -6 10 12z" fill="#7dcc6a"/></g>
+  <text x="280" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" fill="#1c2b22">bg_download</text>
+  <text x="280" y="362" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#2f7d4a">wallpapers, fetched</text>
+  <text x="280" y="392" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="2" fill="#5e6b58">PLATE 05</text>
+</svg>

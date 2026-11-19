@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="420" viewBox="0 0 560 420" role="img" aria-labelledby="title desc">
+  <title id="title">odia-STT plate</title>
+  <desc id="desc">Specimen plate 3 for odia-STT: Odia speech → text.</desc>
+  <style>
+    .sway { animation: sway 8s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+    @keyframes sway { 50% { transform: rotate(1.8deg); } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="560" height="420" fill="#fbf6ea" stroke="#1c2b22" stroke-width="4"/>
+  <rect x="16" y="16" width="528" height="388" fill="none" stroke="#b4235b" stroke-width="3"/>
+  <rect x="16" y="16" width="528" height="14" fill="#b4235b"/>
+  <g class="sway" transform="translate(280 200)"><path d="M-80 60 C-20 60 0 0 40 -50" fill="none" stroke="#2f7d4a" stroke-width="5"/><path d="M-70 -10 q18 -28 36 0 q-18 10 -36 0z" fill="#b4235b" stroke="#1c2b22" stroke-width="2"/><path d="M-20 -40 q18 -28 36 0 q-18 10 -36 0z" fill="#b4235b" stroke="#1c2b22" stroke-width="2"/><path d="M30 -8 q18 -28 36 0 q-18 10 -36 0z" fill="#b4235b" stroke="#1c2b22" stroke-width="2"/><path d="M70 -20 q16 10 0 24 M88 -28 q20 14 0 30" fill="none" stroke="#1c2b22" stroke-width="2" stroke-linecap="round"/></g>
+  <text x="280" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" fill="#1c2b22">odia-STT</text>
+  <text x="280" y="362" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic" fill="#b4235b">Odia speech → text</text>
+  <text x="280" y="392" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="2" fill="#5e6b58">PLATE 03</text>
+</svg>

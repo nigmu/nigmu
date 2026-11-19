@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Mission control</title>
+  <desc id="desc">Launch board for Nigam. Status lamps for full stack, Android and machine learning. A radar sweeps behind a small rocket. Crew note: plays the ukulele.</desc>
+  <defs>
+    <pattern id="hazard" width="20" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="20" height="24" fill="#e39b12"/>
+      <rect width="10" height="24" fill="#f4f1e8"/>
+    </pattern>
+  </defs>
+  <style>
+    .sweep { animation: spin 14s linear infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .lamp { animation: lamp 3.2s ease-in-out infinite; }
+    @keyframes lamp { 50% { opacity: 0.35; } }
+    .bob { animation: bob 4s ease-in-out infinite; }
+    @keyframes bob { 50% { transform: translateY(-8px); } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+  <rect width="1200" height="460" fill="#f4f1e8"/>
+  <rect x="28" y="28" width="1144" height="404" fill="#fffdf8" stroke="#e2d8c8" stroke-width="2"/>
+  <text x="64" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="4" fill="#e39b12">MISSION CONTROL</text>
+  <text x="60" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="#1c2430">NIGAM</text>
+  <circle class="lamp" cx="78" cy="208" r="9" fill="#0c8f4e"/><circle cx="76" cy="206" r="3" fill="#ffffff" opacity="0.65"/><text x="100" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" letter-spacing="2" fill="#1c2430">FULL STACK</text><circle class="lamp" cx="78" cy="250" r="9" fill="#0c8f4e"/><circle cx="76" cy="248" r="3" fill="#ffffff" opacity="0.65"/><text x="100" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" letter-spacing="2" fill="#1c2430">ANDROID</text><circle class="lamp" cx="78" cy="292" r="9" fill="#0c8f4e"/><circle cx="76" cy="290" r="3" fill="#ffffff" opacity="0.65"/><text x="100" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="20" font-weight="700" letter-spacing="2" fill="#1c2430">MACHINE LEARNING</text>
+  <text x="64" y="360" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#6d6256">CREW NOTE · PLAYS THE UKULELE</text>
+  <circle cx="860" cy="230" r="158" fill="#e7f6ee" stroke="#0c8f4e" stroke-width="3"/>
+  <circle cx="860" cy="230" r="52" fill="none" stroke="#0c8f4e" stroke-width="1.5" opacity="0.55"/><circle cx="860" cy="230" r="104" fill="none" stroke="#0c8f4e" stroke-width="1.5" opacity="0.55"/><circle cx="860" cy="230" r="150" fill="none" stroke="#0c8f4e" stroke-width="1.5" opacity="0.55"/>
+  <path d="M702 230 H1018 M860 72 V388" stroke="#0c8f4e" stroke-width="1" opacity="0.4"/>
+  <g class="sweep">
+    <circle cx="860" cy="230" r="158" fill="none"/>
+    <path d="M860 230 L860 72 A158 158 0 0 1 1018 230 Z" fill="#0c8f4e" opacity="0.28"/>
+  </g>
+  <g class="bob" transform="translate(860 238)">
+    <path d="M0 -78 C26 -46 26 8 0 36 C-26 8 -26 -46 0 -78Z" fill="#ffffff" stroke="#1c2430" stroke-width="3"/>
+    <circle cy="-18" r="10" fill="#0b6e99" stroke="#1c2430" stroke-width="3"/>
+    <path d="M-16 20 L-34 52 L-6 30Z" fill="#e39b12" stroke="#1c2430" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M16 20 L34 52 L6 30Z" fill="#e39b12" stroke="#1c2430" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M-8 36 H8 L0 64Z" fill="#d23b3b" stroke="#1c2430" stroke-width="2"/>
+  </g>
+  <rect y="436" width="1200" height="24" fill="url(#hazard)"/>
+</svg>
