@@ -1,3 +1,20 @@
-![About. Hi, I'm Nigam. I enjoy turning everyday challenges into simple, practical software. Based in Kolkata. Working on TrackMySpend.](yellow/about-light.svg) ![Weekly rhythm. Contributions per weekday over the last 12 months, 222 in total. Busiest is Thursday with 71. Quietest is Tuesday with 11. 76% of contributions are on weekdays.](yellow/weekly-light.svg)
-
-![Most used languages. Python 49.6%, Kotlin 11.7%, JavaScript 8.7%, HTML 7.5%, and others.](yellow/languages-light.svg) ![GitHub stats. 204 commits in the last 12 months, 303 in total. 2 pull requests created in the last 12 months, 4 in total. 1 issue in total. Active on 17% of the last 12 months.](yellow/summary-light.svg)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="yellow/about-dark.svg">
+  <img src="yellow/about-dark.svg" width="400" alt="About. Hi, I'm Nigam. I enjoy turning everyday challenges into simple, practical software. Based in Kolkata. Working on TrackMySpend.">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="yellow/weekly-dark.svg">
+  <img src="yellow/weekly-dark.svg" width="400" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="yellow/languages-dark.svg">
+  <img src="yellow/languages-dark.svg" width="400" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="yellow/summary-dark.svg">
+  <img src="yellow/summary-dark.svg" width="400" alt="Streaks">
+</picture>
+</p>
